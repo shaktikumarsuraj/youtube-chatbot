@@ -1,0 +1,22 @@
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+
+# YouTube Transcript Extraction
+youtube-transcript-api
+
+# Tokenization
+tiktoken
+
+# Environment Variables
+python-dotenv
+
+# Vector Database
+faiss-cpu
+
+# Application Interface (Future Use)
+streamlit
